@@ -19,8 +19,13 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/savad-t/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/savad-t/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/savad-t/Leetcode-Solutions/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/savad-t/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
