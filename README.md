@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/savad-t/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/savad-t/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/savad-t/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/savad-t/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/savad-t/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/savad-t/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Bit Manipulation
@@ -30,4 +32,8 @@
 | ------- |
 | [0344-reverse-string](https://github.com/savad-t/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/savad-t/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/savad-t/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
