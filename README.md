@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/savad-t/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/savad-t/Leetcode-Solutions/tree/master/0136-single-number) |
+| [1791-richest-customer-wealth](https://github.com/savad-t/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/savad-t/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/savad-t/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
