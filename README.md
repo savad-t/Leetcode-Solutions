@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/savad-t/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/savad-t/Leetcode-Solutions/tree/master/0136-single-number) |
+| [1293-three-consecutive-odds](https://github.com/savad-t/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1791-richest-customer-wealth](https://github.com/savad-t/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
