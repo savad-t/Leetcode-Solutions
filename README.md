@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/savad-t/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/savad-t/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/savad-t/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/savad-t/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/savad-t/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/savad-t/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/savad-t/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
